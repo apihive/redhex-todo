@@ -1,0 +1,17 @@
+export default {
+  OK:{CODE:200,MESSAGE:'Success'},
+  CREATED:{CODE:201,MESSAGE:'Created'},
+  ACCEPTED:{CODE:202,MESSAGE:'Accepted'},
+  EMPTY:{CODE:204,MESSAGE:'No Content'},
+
+  BAD:{CODE:400,MESSAGE:'Bad Request'},
+  UNAUTHORIZED:{CODE:401,MESSAGE:'Unauthorized'},
+  FORBIDDEN:{CODE:403,MESSAGE:'Forbidden'},
+  NOT_FOUND:{CODE:404,MESSAGE:'Not Found'},
+  UNACCEPTABLE:{CODE:406,MESSAGE:'Not Acceptable'},
+  CONFLICT:{CODE:409,MESSAGE:'Conflict'},
+
+  SERVER_ERROR:{CODE:500,MESSAGE:'Internal Server Error'},
+  NOT_IMPLEMENTED:{CODE:501,MESSAGE:'Not Implemented'}
+
+}

@@ -1,0 +1,54 @@
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:11:18.138Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:11:18.159Z"}
+{"level":"info","message":"Processing request.","timestamp":"2016-10-28T11:11:48.751Z"}
+{"level":"info","message":"alpit","timestamp":"2016-10-28T11:11:48.752Z"}
+{"level":"info","message":"Create New Record = 0","timestamp":"2016-10-28T11:11:48.755Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:15:47.294Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:15:47.315Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:15:54.841Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:15:54.862Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:21:51.514Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:21:51.537Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:25:03.002Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:25:03.025Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:25:22.971Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:25:22.995Z"}
+{"level":"info","message":"Processing request.","timestamp":"2016-10-28T11:25:36.701Z"}
+{"level":"info","message":"alpit","timestamp":"2016-10-28T11:25:36.702Z"}
+{"level":"info","message":"Create New Record = 1","timestamp":"2016-10-28T11:25:36.704Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:26:38.797Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:26:38.822Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:29:48.967Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:29:48.990Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:30:40.787Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:30:40.810Z"}
+{"level":"info","message":"Processing request.","timestamp":"2016-10-28T11:31:00.080Z"}
+{"level":"info","message":"Creating a new record......","timestamp":"2016-10-28T11:31:00.085Z"}
+{"level":"info","message":"Redis Hash Record Updated! key = Hash.TodoDetails:testID","timestamp":"2016-10-28T11:31:00.088Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:32:22.750Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:32:22.772Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:34:14.122Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:34:14.146Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:34:26.857Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:34:26.886Z"}
+{"level":"info","message":"Processing request.","timestamp":"2016-10-28T11:34:33.015Z"}
+{"level":"info","message":"Creating a new record......","timestamp":"2016-10-28T11:34:33.017Z"}
+{"level":"info","message":"Redis Hash Record Created! key = Hash.TodoDetails:testID","timestamp":"2016-10-28T11:34:33.024Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:37:10.852Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:37:10.878Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:53:53.467Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:53:53.494Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:54:32.257Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:54:32.284Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:54:59.822Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:54:59.843Z"}
+{"level":"info","message":"Processing request.","timestamp":"2016-10-28T11:55:33.437Z"}
+{"level":"info","message":"Retreiving new record......","timestamp":"2016-10-28T11:55:33.438Z"}
+{"testkey":"testVal","todoKey":"todo Value","level":"info","message":"","timestamp":"2016-10-28T11:55:33.444Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:55:56.727Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:55:56.752Z"}
+{"level":"info","message":"[ HTTPS ] listening at port 7000","timestamp":"2016-10-28T11:56:10.318Z"}
+{"level":"info","message":"Database 4 selected","timestamp":"2016-10-28T11:56:10.339Z"}
+{"level":"info","message":"Processing request.","timestamp":"2016-10-28T11:56:21.899Z"}
+{"level":"info","message":"Retreiving new record......","timestamp":"2016-10-28T11:56:21.901Z"}
+{"testkey":"testVal","todoKey":"todo Value","level":"info","message":"","timestamp":"2016-10-28T11:56:21.905Z"}
